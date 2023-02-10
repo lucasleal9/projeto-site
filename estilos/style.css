@@ -12,5 +12,9 @@ main {
     width: 500px;
     padding: 10px;
     margin: auto;
-    box-shadow: 3px 3px 5px black;
+    box-shadow: 5px 5px 10px black;
+}
+
+img.lado {
+    float: right;
 }
